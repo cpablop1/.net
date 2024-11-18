@@ -1,0 +1,17 @@
+C:\proyects\.net\EvenOrOdd\bin\Debug\net8.0-windows\EvenOrOdd.exe
+C:\proyects\.net\EvenOrOdd\bin\Debug\net8.0-windows\EvenOrOdd.deps.json
+C:\proyects\.net\EvenOrOdd\bin\Debug\net8.0-windows\EvenOrOdd.runtimeconfig.json
+C:\proyects\.net\EvenOrOdd\bin\Debug\net8.0-windows\EvenOrOdd.dll
+C:\proyects\.net\EvenOrOdd\bin\Debug\net8.0-windows\EvenOrOdd.pdb
+C:\proyects\.net\EvenOrOdd\obj\Debug\net8.0-windows\EvenOrOdd.Form1.resources
+C:\proyects\.net\EvenOrOdd\obj\Debug\net8.0-windows\EvenOrOdd.csproj.GenerateResource.cache
+C:\proyects\.net\EvenOrOdd\obj\Debug\net8.0-windows\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\EvenOrOdd\obj\Debug\net8.0-windows\EvenOrOdd.AssemblyInfoInputs.cache
+C:\proyects\.net\EvenOrOdd\obj\Debug\net8.0-windows\EvenOrOdd.AssemblyInfo.cs
+C:\proyects\.net\EvenOrOdd\obj\Debug\net8.0-windows\EvenOrOdd.csproj.CoreCompileInputs.cache
+C:\proyects\.net\EvenOrOdd\obj\Debug\net8.0-windows\EvenOrOdd.sourcelink.json
+C:\proyects\.net\EvenOrOdd\obj\Debug\net8.0-windows\EvenOrOdd.dll
+C:\proyects\.net\EvenOrOdd\obj\Debug\net8.0-windows\refint\EvenOrOdd.dll
+C:\proyects\.net\EvenOrOdd\obj\Debug\net8.0-windows\EvenOrOdd.pdb
+C:\proyects\.net\EvenOrOdd\obj\Debug\net8.0-windows\EvenOrOdd.genruntimeconfig.cache
+C:\proyects\.net\EvenOrOdd\obj\Debug\net8.0-windows\ref\EvenOrOdd.dll
