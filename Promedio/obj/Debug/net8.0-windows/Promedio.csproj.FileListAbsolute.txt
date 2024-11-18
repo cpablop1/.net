@@ -1,0 +1,16 @@
+C:\proyects\.net\Promedio\bin\Debug\net8.0-windows\Promedio.exe
+C:\proyects\.net\Promedio\bin\Debug\net8.0-windows\Promedio.deps.json
+C:\proyects\.net\Promedio\bin\Debug\net8.0-windows\Promedio.runtimeconfig.json
+C:\proyects\.net\Promedio\bin\Debug\net8.0-windows\Promedio.dll
+C:\proyects\.net\Promedio\bin\Debug\net8.0-windows\Promedio.pdb
+C:\proyects\.net\Promedio\obj\Debug\net8.0-windows\Promedio.Form1.resources
+C:\proyects\.net\Promedio\obj\Debug\net8.0-windows\Promedio.csproj.GenerateResource.cache
+C:\proyects\.net\Promedio\obj\Debug\net8.0-windows\Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\Promedio\obj\Debug\net8.0-windows\Promedio.AssemblyInfoInputs.cache
+C:\proyects\.net\Promedio\obj\Debug\net8.0-windows\Promedio.AssemblyInfo.cs
+C:\proyects\.net\Promedio\obj\Debug\net8.0-windows\Promedio.csproj.CoreCompileInputs.cache
+C:\proyects\.net\Promedio\obj\Debug\net8.0-windows\Promedio.dll
+C:\proyects\.net\Promedio\obj\Debug\net8.0-windows\refint\Promedio.dll
+C:\proyects\.net\Promedio\obj\Debug\net8.0-windows\Promedio.pdb
+C:\proyects\.net\Promedio\obj\Debug\net8.0-windows\Promedio.genruntimeconfig.cache
+C:\proyects\.net\Promedio\obj\Debug\net8.0-windows\ref\Promedio.dll
