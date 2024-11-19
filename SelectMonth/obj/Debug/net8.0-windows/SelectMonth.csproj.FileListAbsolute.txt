@@ -1,0 +1,17 @@
+C:\proyects\.net\SelectMonth\bin\Debug\net8.0-windows\SelectMonth.exe
+C:\proyects\.net\SelectMonth\bin\Debug\net8.0-windows\SelectMonth.deps.json
+C:\proyects\.net\SelectMonth\bin\Debug\net8.0-windows\SelectMonth.runtimeconfig.json
+C:\proyects\.net\SelectMonth\bin\Debug\net8.0-windows\SelectMonth.dll
+C:\proyects\.net\SelectMonth\bin\Debug\net8.0-windows\SelectMonth.pdb
+C:\proyects\.net\SelectMonth\obj\Debug\net8.0-windows\SelectMonth.Form1.resources
+C:\proyects\.net\SelectMonth\obj\Debug\net8.0-windows\SelectMonth.csproj.GenerateResource.cache
+C:\proyects\.net\SelectMonth\obj\Debug\net8.0-windows\SelectMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\SelectMonth\obj\Debug\net8.0-windows\SelectMonth.AssemblyInfoInputs.cache
+C:\proyects\.net\SelectMonth\obj\Debug\net8.0-windows\SelectMonth.AssemblyInfo.cs
+C:\proyects\.net\SelectMonth\obj\Debug\net8.0-windows\SelectMonth.csproj.CoreCompileInputs.cache
+C:\proyects\.net\SelectMonth\obj\Debug\net8.0-windows\SelectMonth.sourcelink.json
+C:\proyects\.net\SelectMonth\obj\Debug\net8.0-windows\SelectMonth.dll
+C:\proyects\.net\SelectMonth\obj\Debug\net8.0-windows\refint\SelectMonth.dll
+C:\proyects\.net\SelectMonth\obj\Debug\net8.0-windows\SelectMonth.pdb
+C:\proyects\.net\SelectMonth\obj\Debug\net8.0-windows\SelectMonth.genruntimeconfig.cache
+C:\proyects\.net\SelectMonth\obj\Debug\net8.0-windows\ref\SelectMonth.dll
