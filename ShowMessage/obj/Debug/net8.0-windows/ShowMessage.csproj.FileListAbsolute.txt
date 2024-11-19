@@ -1,0 +1,17 @@
+C:\proyects\.net\ShowMessage\bin\Debug\net8.0-windows\ShowMessage.exe
+C:\proyects\.net\ShowMessage\bin\Debug\net8.0-windows\ShowMessage.deps.json
+C:\proyects\.net\ShowMessage\bin\Debug\net8.0-windows\ShowMessage.runtimeconfig.json
+C:\proyects\.net\ShowMessage\bin\Debug\net8.0-windows\ShowMessage.dll
+C:\proyects\.net\ShowMessage\bin\Debug\net8.0-windows\ShowMessage.pdb
+C:\proyects\.net\ShowMessage\obj\Debug\net8.0-windows\ShowMessage.Form1.resources
+C:\proyects\.net\ShowMessage\obj\Debug\net8.0-windows\ShowMessage.csproj.GenerateResource.cache
+C:\proyects\.net\ShowMessage\obj\Debug\net8.0-windows\ShowMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\ShowMessage\obj\Debug\net8.0-windows\ShowMessage.AssemblyInfoInputs.cache
+C:\proyects\.net\ShowMessage\obj\Debug\net8.0-windows\ShowMessage.AssemblyInfo.cs
+C:\proyects\.net\ShowMessage\obj\Debug\net8.0-windows\ShowMessage.csproj.CoreCompileInputs.cache
+C:\proyects\.net\ShowMessage\obj\Debug\net8.0-windows\ShowMessage.sourcelink.json
+C:\proyects\.net\ShowMessage\obj\Debug\net8.0-windows\ShowMessage.dll
+C:\proyects\.net\ShowMessage\obj\Debug\net8.0-windows\refint\ShowMessage.dll
+C:\proyects\.net\ShowMessage\obj\Debug\net8.0-windows\ShowMessage.pdb
+C:\proyects\.net\ShowMessage\obj\Debug\net8.0-windows\ShowMessage.genruntimeconfig.cache
+C:\proyects\.net\ShowMessage\obj\Debug\net8.0-windows\ref\ShowMessage.dll
