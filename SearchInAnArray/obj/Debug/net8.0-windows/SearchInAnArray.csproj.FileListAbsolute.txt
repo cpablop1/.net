@@ -1,0 +1,17 @@
+C:\proyects\.net\SearchInAnArray\bin\Debug\net8.0-windows\SearchInAnArray.exe
+C:\proyects\.net\SearchInAnArray\bin\Debug\net8.0-windows\SearchInAnArray.deps.json
+C:\proyects\.net\SearchInAnArray\bin\Debug\net8.0-windows\SearchInAnArray.runtimeconfig.json
+C:\proyects\.net\SearchInAnArray\bin\Debug\net8.0-windows\SearchInAnArray.dll
+C:\proyects\.net\SearchInAnArray\bin\Debug\net8.0-windows\SearchInAnArray.pdb
+C:\proyects\.net\SearchInAnArray\obj\Debug\net8.0-windows\SearchInAnArray.Form1.resources
+C:\proyects\.net\SearchInAnArray\obj\Debug\net8.0-windows\SearchInAnArray.csproj.GenerateResource.cache
+C:\proyects\.net\SearchInAnArray\obj\Debug\net8.0-windows\SearchInAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\SearchInAnArray\obj\Debug\net8.0-windows\SearchInAnArray.AssemblyInfoInputs.cache
+C:\proyects\.net\SearchInAnArray\obj\Debug\net8.0-windows\SearchInAnArray.AssemblyInfo.cs
+C:\proyects\.net\SearchInAnArray\obj\Debug\net8.0-windows\SearchInAnArray.csproj.CoreCompileInputs.cache
+C:\proyects\.net\SearchInAnArray\obj\Debug\net8.0-windows\SearchInAnArray.sourcelink.json
+C:\proyects\.net\SearchInAnArray\obj\Debug\net8.0-windows\SearchInAnArray.dll
+C:\proyects\.net\SearchInAnArray\obj\Debug\net8.0-windows\refint\SearchInAnArray.dll
+C:\proyects\.net\SearchInAnArray\obj\Debug\net8.0-windows\SearchInAnArray.pdb
+C:\proyects\.net\SearchInAnArray\obj\Debug\net8.0-windows\SearchInAnArray.genruntimeconfig.cache
+C:\proyects\.net\SearchInAnArray\obj\Debug\net8.0-windows\ref\SearchInAnArray.dll
