@@ -1,0 +1,17 @@
+C:\proyects\.net\MultiplicationTableWhitLoopFor\bin\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.exe
+C:\proyects\.net\MultiplicationTableWhitLoopFor\bin\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.deps.json
+C:\proyects\.net\MultiplicationTableWhitLoopFor\bin\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.runtimeconfig.json
+C:\proyects\.net\MultiplicationTableWhitLoopFor\bin\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.dll
+C:\proyects\.net\MultiplicationTableWhitLoopFor\bin\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.pdb
+C:\proyects\.net\MultiplicationTableWhitLoopFor\obj\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.Form1.resources
+C:\proyects\.net\MultiplicationTableWhitLoopFor\obj\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.csproj.GenerateResource.cache
+C:\proyects\.net\MultiplicationTableWhitLoopFor\obj\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\MultiplicationTableWhitLoopFor\obj\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.AssemblyInfoInputs.cache
+C:\proyects\.net\MultiplicationTableWhitLoopFor\obj\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.AssemblyInfo.cs
+C:\proyects\.net\MultiplicationTableWhitLoopFor\obj\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.csproj.CoreCompileInputs.cache
+C:\proyects\.net\MultiplicationTableWhitLoopFor\obj\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.sourcelink.json
+C:\proyects\.net\MultiplicationTableWhitLoopFor\obj\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.dll
+C:\proyects\.net\MultiplicationTableWhitLoopFor\obj\Debug\net8.0-windows\refint\MultiplicationTableWhitLoopFor.dll
+C:\proyects\.net\MultiplicationTableWhitLoopFor\obj\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.pdb
+C:\proyects\.net\MultiplicationTableWhitLoopFor\obj\Debug\net8.0-windows\MultiplicationTableWhitLoopFor.genruntimeconfig.cache
+C:\proyects\.net\MultiplicationTableWhitLoopFor\obj\Debug\net8.0-windows\ref\MultiplicationTableWhitLoopFor.dll
