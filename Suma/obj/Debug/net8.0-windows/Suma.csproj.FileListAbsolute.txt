@@ -1,0 +1,17 @@
+C:\proyects\.net\Suma\bin\Debug\net8.0-windows\Suma.exe
+C:\proyects\.net\Suma\bin\Debug\net8.0-windows\Suma.deps.json
+C:\proyects\.net\Suma\bin\Debug\net8.0-windows\Suma.runtimeconfig.json
+C:\proyects\.net\Suma\bin\Debug\net8.0-windows\Suma.dll
+C:\proyects\.net\Suma\bin\Debug\net8.0-windows\Suma.pdb
+C:\proyects\.net\Suma\obj\Debug\net8.0-windows\Suma.Form1.resources
+C:\proyects\.net\Suma\obj\Debug\net8.0-windows\Suma.csproj.GenerateResource.cache
+C:\proyects\.net\Suma\obj\Debug\net8.0-windows\Suma.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\Suma\obj\Debug\net8.0-windows\Suma.AssemblyInfoInputs.cache
+C:\proyects\.net\Suma\obj\Debug\net8.0-windows\Suma.AssemblyInfo.cs
+C:\proyects\.net\Suma\obj\Debug\net8.0-windows\Suma.csproj.CoreCompileInputs.cache
+C:\proyects\.net\Suma\obj\Debug\net8.0-windows\Suma.sourcelink.json
+C:\proyects\.net\Suma\obj\Debug\net8.0-windows\Suma.dll
+C:\proyects\.net\Suma\obj\Debug\net8.0-windows\refint\Suma.dll
+C:\proyects\.net\Suma\obj\Debug\net8.0-windows\Suma.pdb
+C:\proyects\.net\Suma\obj\Debug\net8.0-windows\Suma.genruntimeconfig.cache
+C:\proyects\.net\Suma\obj\Debug\net8.0-windows\ref\Suma.dll
