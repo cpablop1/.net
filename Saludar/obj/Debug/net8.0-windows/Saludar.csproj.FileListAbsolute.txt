@@ -1,0 +1,17 @@
+C:\proyects\.net\Saludar\bin\Debug\net8.0-windows\Saludar.exe
+C:\proyects\.net\Saludar\bin\Debug\net8.0-windows\Saludar.deps.json
+C:\proyects\.net\Saludar\bin\Debug\net8.0-windows\Saludar.runtimeconfig.json
+C:\proyects\.net\Saludar\bin\Debug\net8.0-windows\Saludar.dll
+C:\proyects\.net\Saludar\bin\Debug\net8.0-windows\Saludar.pdb
+C:\proyects\.net\Saludar\obj\Debug\net8.0-windows\Saludar.Form1.resources
+C:\proyects\.net\Saludar\obj\Debug\net8.0-windows\Saludar.csproj.GenerateResource.cache
+C:\proyects\.net\Saludar\obj\Debug\net8.0-windows\Saludar.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\Saludar\obj\Debug\net8.0-windows\Saludar.AssemblyInfoInputs.cache
+C:\proyects\.net\Saludar\obj\Debug\net8.0-windows\Saludar.AssemblyInfo.cs
+C:\proyects\.net\Saludar\obj\Debug\net8.0-windows\Saludar.csproj.CoreCompileInputs.cache
+C:\proyects\.net\Saludar\obj\Debug\net8.0-windows\Saludar.sourcelink.json
+C:\proyects\.net\Saludar\obj\Debug\net8.0-windows\Saludar.dll
+C:\proyects\.net\Saludar\obj\Debug\net8.0-windows\refint\Saludar.dll
+C:\proyects\.net\Saludar\obj\Debug\net8.0-windows\Saludar.pdb
+C:\proyects\.net\Saludar\obj\Debug\net8.0-windows\Saludar.genruntimeconfig.cache
+C:\proyects\.net\Saludar\obj\Debug\net8.0-windows\ref\Saludar.dll
