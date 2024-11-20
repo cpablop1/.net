@@ -1,0 +1,17 @@
+C:\proyects\.net\OrderArray\bin\Debug\net8.0-windows\OrderArray.exe
+C:\proyects\.net\OrderArray\bin\Debug\net8.0-windows\OrderArray.deps.json
+C:\proyects\.net\OrderArray\bin\Debug\net8.0-windows\OrderArray.runtimeconfig.json
+C:\proyects\.net\OrderArray\bin\Debug\net8.0-windows\OrderArray.dll
+C:\proyects\.net\OrderArray\bin\Debug\net8.0-windows\OrderArray.pdb
+C:\proyects\.net\OrderArray\obj\Debug\net8.0-windows\OrderArray.Form1.resources
+C:\proyects\.net\OrderArray\obj\Debug\net8.0-windows\OrderArray.csproj.GenerateResource.cache
+C:\proyects\.net\OrderArray\obj\Debug\net8.0-windows\OrderArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\OrderArray\obj\Debug\net8.0-windows\OrderArray.AssemblyInfoInputs.cache
+C:\proyects\.net\OrderArray\obj\Debug\net8.0-windows\OrderArray.AssemblyInfo.cs
+C:\proyects\.net\OrderArray\obj\Debug\net8.0-windows\OrderArray.csproj.CoreCompileInputs.cache
+C:\proyects\.net\OrderArray\obj\Debug\net8.0-windows\OrderArray.sourcelink.json
+C:\proyects\.net\OrderArray\obj\Debug\net8.0-windows\OrderArray.dll
+C:\proyects\.net\OrderArray\obj\Debug\net8.0-windows\refint\OrderArray.dll
+C:\proyects\.net\OrderArray\obj\Debug\net8.0-windows\OrderArray.pdb
+C:\proyects\.net\OrderArray\obj\Debug\net8.0-windows\OrderArray.genruntimeconfig.cache
+C:\proyects\.net\OrderArray\obj\Debug\net8.0-windows\ref\OrderArray.dll
