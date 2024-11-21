@@ -1,0 +1,17 @@
+C:\proyects\.net\Descuento2\bin\Debug\net8.0-windows\Descuento2.exe
+C:\proyects\.net\Descuento2\bin\Debug\net8.0-windows\Descuento2.deps.json
+C:\proyects\.net\Descuento2\bin\Debug\net8.0-windows\Descuento2.runtimeconfig.json
+C:\proyects\.net\Descuento2\bin\Debug\net8.0-windows\Descuento2.dll
+C:\proyects\.net\Descuento2\bin\Debug\net8.0-windows\Descuento2.pdb
+C:\proyects\.net\Descuento2\obj\Debug\net8.0-windows\Descuento2.Form1.resources
+C:\proyects\.net\Descuento2\obj\Debug\net8.0-windows\Descuento2.csproj.GenerateResource.cache
+C:\proyects\.net\Descuento2\obj\Debug\net8.0-windows\Descuento2.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\Descuento2\obj\Debug\net8.0-windows\Descuento2.AssemblyInfoInputs.cache
+C:\proyects\.net\Descuento2\obj\Debug\net8.0-windows\Descuento2.AssemblyInfo.cs
+C:\proyects\.net\Descuento2\obj\Debug\net8.0-windows\Descuento2.csproj.CoreCompileInputs.cache
+C:\proyects\.net\Descuento2\obj\Debug\net8.0-windows\Descuento2.sourcelink.json
+C:\proyects\.net\Descuento2\obj\Debug\net8.0-windows\Descuento2.dll
+C:\proyects\.net\Descuento2\obj\Debug\net8.0-windows\refint\Descuento2.dll
+C:\proyects\.net\Descuento2\obj\Debug\net8.0-windows\Descuento2.pdb
+C:\proyects\.net\Descuento2\obj\Debug\net8.0-windows\Descuento2.genruntimeconfig.cache
+C:\proyects\.net\Descuento2\obj\Debug\net8.0-windows\ref\Descuento2.dll
