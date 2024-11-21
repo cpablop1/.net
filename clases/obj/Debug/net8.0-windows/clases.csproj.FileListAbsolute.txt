@@ -1,0 +1,17 @@
+C:\proyects\.net\clases\bin\Debug\net8.0-windows\clases.exe
+C:\proyects\.net\clases\bin\Debug\net8.0-windows\clases.deps.json
+C:\proyects\.net\clases\bin\Debug\net8.0-windows\clases.runtimeconfig.json
+C:\proyects\.net\clases\bin\Debug\net8.0-windows\clases.dll
+C:\proyects\.net\clases\bin\Debug\net8.0-windows\clases.pdb
+C:\proyects\.net\clases\obj\Debug\net8.0-windows\clases.Form1.resources
+C:\proyects\.net\clases\obj\Debug\net8.0-windows\clases.csproj.GenerateResource.cache
+C:\proyects\.net\clases\obj\Debug\net8.0-windows\clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\clases\obj\Debug\net8.0-windows\clases.AssemblyInfoInputs.cache
+C:\proyects\.net\clases\obj\Debug\net8.0-windows\clases.AssemblyInfo.cs
+C:\proyects\.net\clases\obj\Debug\net8.0-windows\clases.csproj.CoreCompileInputs.cache
+C:\proyects\.net\clases\obj\Debug\net8.0-windows\clases.sourcelink.json
+C:\proyects\.net\clases\obj\Debug\net8.0-windows\clases.dll
+C:\proyects\.net\clases\obj\Debug\net8.0-windows\refint\clases.dll
+C:\proyects\.net\clases\obj\Debug\net8.0-windows\clases.pdb
+C:\proyects\.net\clases\obj\Debug\net8.0-windows\clases.genruntimeconfig.cache
+C:\proyects\.net\clases\obj\Debug\net8.0-windows\ref\clases.dll
