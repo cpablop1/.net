@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\proyects\.net\Asociaciones\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\proyects\.net\Asociaciones\.editorconfig" />
+  </ItemGroup>
+
+</Project>

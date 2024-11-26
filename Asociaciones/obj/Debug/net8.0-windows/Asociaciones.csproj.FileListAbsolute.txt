@@ -1,0 +1,17 @@
+C:\proyects\.net\Asociaciones\bin\Debug\net8.0-windows\Asociaciones.exe
+C:\proyects\.net\Asociaciones\bin\Debug\net8.0-windows\Asociaciones.deps.json
+C:\proyects\.net\Asociaciones\bin\Debug\net8.0-windows\Asociaciones.runtimeconfig.json
+C:\proyects\.net\Asociaciones\bin\Debug\net8.0-windows\Asociaciones.dll
+C:\proyects\.net\Asociaciones\bin\Debug\net8.0-windows\Asociaciones.pdb
+C:\proyects\.net\Asociaciones\obj\Debug\net8.0-windows\Asociaciones.Form1.resources
+C:\proyects\.net\Asociaciones\obj\Debug\net8.0-windows\Asociaciones.csproj.GenerateResource.cache
+C:\proyects\.net\Asociaciones\obj\Debug\net8.0-windows\Asociaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\Asociaciones\obj\Debug\net8.0-windows\Asociaciones.AssemblyInfoInputs.cache
+C:\proyects\.net\Asociaciones\obj\Debug\net8.0-windows\Asociaciones.AssemblyInfo.cs
+C:\proyects\.net\Asociaciones\obj\Debug\net8.0-windows\Asociaciones.csproj.CoreCompileInputs.cache
+C:\proyects\.net\Asociaciones\obj\Debug\net8.0-windows\Asociaciones.sourcelink.json
+C:\proyects\.net\Asociaciones\obj\Debug\net8.0-windows\Asociaciones.dll
+C:\proyects\.net\Asociaciones\obj\Debug\net8.0-windows\refint\Asociaciones.dll
+C:\proyects\.net\Asociaciones\obj\Debug\net8.0-windows\Asociaciones.pdb
+C:\proyects\.net\Asociaciones\obj\Debug\net8.0-windows\Asociaciones.genruntimeconfig.cache
+C:\proyects\.net\Asociaciones\obj\Debug\net8.0-windows\ref\Asociaciones.dll
