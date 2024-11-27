@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\proyects\\.net\\Asociaciones\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2DDB670-FAE1-4174-B652-06172BECE8A7}|Asociaciones.csproj|c:\\proyects\\.net\\asociaciones\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DDB670-FAE1-4174-B652-06172BECE8A7}|Asociaciones.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2DDB670-FAE1-4174-B652-06172BECE8A7}|Asociaciones.csproj|c:\\proyects\\.net\\asociaciones\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2DDB670-FAE1-4174-B652-06172BECE8A7}|Asociaciones.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2DDB670-FAE1-4174-B652-06172BECE8A7}|Asociaciones.csproj|c:\\proyects\\.net\\asociaciones\\fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2DDB670-FAE1-4174-B652-06172BECE8A7}|Asociaciones.csproj|solutionrelative:fecha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2DDB670-FAE1-4174-B652-06172BECE8A7}|Asociaciones.csproj|c:\\proyects\\.net\\asociaciones\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2DDB670-FAE1-4174-B652-06172BECE8A7}|Asociaciones.csproj|solutionrelative:venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2DDB670-FAE1-4174-B652-06172BECE8A7}|Asociaciones.csproj|c:\\proyects\\.net\\asociaciones\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -50,8 +50,7 @@
               "RelativeToolTip": "Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T23:54:13.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T23:54:13.249Z"
             },
             {
               "$type": "Document",
@@ -63,25 +62,24 @@
               "RelativeToolTip": "Almacen.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAowBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T19:45:58.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T19:45:58.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\proyects\\.net\\Asociaciones\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\proyects\\.net\\Asociaciones\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAwDQAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T18:46:39.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Fecha.cs",
               "DocumentMoniker": "C:\\proyects\\.net\\Asociaciones\\Fecha.cs",
               "RelativeDocumentMoniker": "Fecha.cs",
@@ -89,18 +87,17 @@
               "RelativeToolTip": "Fecha.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T18:25:38.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T18:25:38.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\proyects\\.net\\Asociaciones\\Venta.cs",
               "RelativeDocumentMoniker": "Venta.cs",
               "ToolTip": "C:\\proyects\\.net\\Asociaciones\\Venta.cs",
               "RelativeToolTip": "Venta.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T18:24:21.959Z",
               "EditorCaption": ""
@@ -115,8 +112,7 @@
               "RelativeToolTip": "Cliente.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAwwEAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T18:21:18.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T18:21:18.486Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "ToolTip": "C:\\proyects\\.net\\Asociaciones\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T18:20:08.601Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-23T18:20:08.601Z"
             }
           ]
         }

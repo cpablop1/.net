@@ -1,0 +1,17 @@
+C:\proyects\.net\Herencia\bin\Debug\net8.0-windows\Herencia.exe
+C:\proyects\.net\Herencia\bin\Debug\net8.0-windows\Herencia.deps.json
+C:\proyects\.net\Herencia\bin\Debug\net8.0-windows\Herencia.runtimeconfig.json
+C:\proyects\.net\Herencia\bin\Debug\net8.0-windows\Herencia.dll
+C:\proyects\.net\Herencia\bin\Debug\net8.0-windows\Herencia.pdb
+C:\proyects\.net\Herencia\obj\Debug\net8.0-windows\Herencia.Form1.resources
+C:\proyects\.net\Herencia\obj\Debug\net8.0-windows\Herencia.csproj.GenerateResource.cache
+C:\proyects\.net\Herencia\obj\Debug\net8.0-windows\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\Herencia\obj\Debug\net8.0-windows\Herencia.AssemblyInfoInputs.cache
+C:\proyects\.net\Herencia\obj\Debug\net8.0-windows\Herencia.AssemblyInfo.cs
+C:\proyects\.net\Herencia\obj\Debug\net8.0-windows\Herencia.csproj.CoreCompileInputs.cache
+C:\proyects\.net\Herencia\obj\Debug\net8.0-windows\Herencia.sourcelink.json
+C:\proyects\.net\Herencia\obj\Debug\net8.0-windows\Herencia.dll
+C:\proyects\.net\Herencia\obj\Debug\net8.0-windows\refint\Herencia.dll
+C:\proyects\.net\Herencia\obj\Debug\net8.0-windows\Herencia.pdb
+C:\proyects\.net\Herencia\obj\Debug\net8.0-windows\Herencia.genruntimeconfig.cache
+C:\proyects\.net\Herencia\obj\Debug\net8.0-windows\ref\Herencia.dll
