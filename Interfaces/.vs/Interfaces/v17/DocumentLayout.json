@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyects\\.net\\Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{705F31F2-F3B8-4A5C-A172-CF86F81CBD39}|Interfaces.csproj|c:\\proyects\\.net\\interfaces\\basquetbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705F31F2-F3B8-4A5C-A172-CF86F81CBD39}|Interfaces.csproj|solutionrelative:basquetbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705F31F2-F3B8-4A5C-A172-CF86F81CBD39}|Interfaces.csproj|c:\\proyects\\.net\\interfaces\\ibasquetbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705F31F2-F3B8-4A5C-A172-CF86F81CBD39}|Interfaces.csproj|solutionrelative:ibasquetbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705F31F2-F3B8-4A5C-A172-CF86F81CBD39}|Interfaces.csproj|c:\\proyects\\.net\\interfaces\\futbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705F31F2-F3B8-4A5C-A172-CF86F81CBD39}|Interfaces.csproj|solutionrelative:futbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705F31F2-F3B8-4A5C-A172-CF86F81CBD39}|Interfaces.csproj|c:\\proyects\\.net\\interfaces\\deportista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705F31F2-F3B8-4A5C-A172-CF86F81CBD39}|Interfaces.csproj|solutionrelative:deportista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705F31F2-F3B8-4A5C-A172-CF86F81CBD39}|Interfaces.csproj|c:\\proyects\\.net\\interfaces\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{705F31F2-F3B8-4A5C-A172-CF86F81CBD39}|Interfaces.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBasquetbol.cs",
+              "DocumentMoniker": "C:\\proyects\\.net\\Interfaces\\IBasquetbol.cs",
+              "RelativeDocumentMoniker": "IBasquetbol.cs",
+              "ToolTip": "C:\\proyects\\.net\\Interfaces\\IBasquetbol.cs",
+              "RelativeToolTip": "IBasquetbol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:53:45.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasquetBolista.cs",
+              "DocumentMoniker": "C:\\proyects\\.net\\Interfaces\\BasquetBolista.cs",
+              "RelativeDocumentMoniker": "BasquetBolista.cs",
+              "ToolTip": "C:\\proyects\\.net\\Interfaces\\BasquetBolista.cs",
+              "RelativeToolTip": "BasquetBolista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:50:16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Futbolista.cs",
+              "DocumentMoniker": "C:\\proyects\\.net\\Interfaces\\Futbolista.cs",
+              "RelativeDocumentMoniker": "Futbolista.cs",
+              "ToolTip": "C:\\proyects\\.net\\Interfaces\\Futbolista.cs",
+              "RelativeToolTip": "Futbolista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:48:36.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deportista.cs",
+              "DocumentMoniker": "C:\\proyects\\.net\\Interfaces\\Deportista.cs",
+              "RelativeDocumentMoniker": "Deportista.cs",
+              "ToolTip": "C:\\proyects\\.net\\Interfaces\\Deportista.cs",
+              "RelativeToolTip": "Deportista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:37:52.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\proyects\\.net\\Interfaces\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\proyects\\.net\\Interfaces\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:36:53.296Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
