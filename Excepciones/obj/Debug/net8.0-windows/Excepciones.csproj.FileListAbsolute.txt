@@ -1,0 +1,17 @@
+C:\proyects\.net\Excepciones\bin\Debug\net8.0-windows\Excepciones.exe
+C:\proyects\.net\Excepciones\bin\Debug\net8.0-windows\Excepciones.deps.json
+C:\proyects\.net\Excepciones\bin\Debug\net8.0-windows\Excepciones.runtimeconfig.json
+C:\proyects\.net\Excepciones\bin\Debug\net8.0-windows\Excepciones.dll
+C:\proyects\.net\Excepciones\bin\Debug\net8.0-windows\Excepciones.pdb
+C:\proyects\.net\Excepciones\obj\Debug\net8.0-windows\Excepciones.Form1.resources
+C:\proyects\.net\Excepciones\obj\Debug\net8.0-windows\Excepciones.csproj.GenerateResource.cache
+C:\proyects\.net\Excepciones\obj\Debug\net8.0-windows\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\Excepciones\obj\Debug\net8.0-windows\Excepciones.AssemblyInfoInputs.cache
+C:\proyects\.net\Excepciones\obj\Debug\net8.0-windows\Excepciones.AssemblyInfo.cs
+C:\proyects\.net\Excepciones\obj\Debug\net8.0-windows\Excepciones.csproj.CoreCompileInputs.cache
+C:\proyects\.net\Excepciones\obj\Debug\net8.0-windows\Excepciones.sourcelink.json
+C:\proyects\.net\Excepciones\obj\Debug\net8.0-windows\Excepciones.dll
+C:\proyects\.net\Excepciones\obj\Debug\net8.0-windows\refint\Excepciones.dll
+C:\proyects\.net\Excepciones\obj\Debug\net8.0-windows\Excepciones.pdb
+C:\proyects\.net\Excepciones\obj\Debug\net8.0-windows\Excepciones.genruntimeconfig.cache
+C:\proyects\.net\Excepciones\obj\Debug\net8.0-windows\ref\Excepciones.dll
