@@ -1,0 +1,17 @@
+C:\proyects\.net\Static\bin\Debug\net8.0-windows\Static.exe
+C:\proyects\.net\Static\bin\Debug\net8.0-windows\Static.deps.json
+C:\proyects\.net\Static\bin\Debug\net8.0-windows\Static.runtimeconfig.json
+C:\proyects\.net\Static\bin\Debug\net8.0-windows\Static.dll
+C:\proyects\.net\Static\bin\Debug\net8.0-windows\Static.pdb
+C:\proyects\.net\Static\obj\Debug\net8.0-windows\Static.Form1.resources
+C:\proyects\.net\Static\obj\Debug\net8.0-windows\Static.csproj.GenerateResource.cache
+C:\proyects\.net\Static\obj\Debug\net8.0-windows\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\Static\obj\Debug\net8.0-windows\Static.AssemblyInfoInputs.cache
+C:\proyects\.net\Static\obj\Debug\net8.0-windows\Static.AssemblyInfo.cs
+C:\proyects\.net\Static\obj\Debug\net8.0-windows\Static.csproj.CoreCompileInputs.cache
+C:\proyects\.net\Static\obj\Debug\net8.0-windows\Static.sourcelink.json
+C:\proyects\.net\Static\obj\Debug\net8.0-windows\Static.dll
+C:\proyects\.net\Static\obj\Debug\net8.0-windows\refint\Static.dll
+C:\proyects\.net\Static\obj\Debug\net8.0-windows\Static.pdb
+C:\proyects\.net\Static\obj\Debug\net8.0-windows\Static.genruntimeconfig.cache
+C:\proyects\.net\Static\obj\Debug\net8.0-windows\ref\Static.dll
