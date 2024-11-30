@@ -1,0 +1,17 @@
+C:\proyects\.net\RadioButton\bin\Debug\net8.0-windows\RadioButton.exe
+C:\proyects\.net\RadioButton\bin\Debug\net8.0-windows\RadioButton.deps.json
+C:\proyects\.net\RadioButton\bin\Debug\net8.0-windows\RadioButton.runtimeconfig.json
+C:\proyects\.net\RadioButton\bin\Debug\net8.0-windows\RadioButton.dll
+C:\proyects\.net\RadioButton\bin\Debug\net8.0-windows\RadioButton.pdb
+C:\proyects\.net\RadioButton\obj\Debug\net8.0-windows\RadioButton.Form1.resources
+C:\proyects\.net\RadioButton\obj\Debug\net8.0-windows\RadioButton.csproj.GenerateResource.cache
+C:\proyects\.net\RadioButton\obj\Debug\net8.0-windows\RadioButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\RadioButton\obj\Debug\net8.0-windows\RadioButton.AssemblyInfoInputs.cache
+C:\proyects\.net\RadioButton\obj\Debug\net8.0-windows\RadioButton.AssemblyInfo.cs
+C:\proyects\.net\RadioButton\obj\Debug\net8.0-windows\RadioButton.csproj.CoreCompileInputs.cache
+C:\proyects\.net\RadioButton\obj\Debug\net8.0-windows\RadioButton.sourcelink.json
+C:\proyects\.net\RadioButton\obj\Debug\net8.0-windows\RadioButton.dll
+C:\proyects\.net\RadioButton\obj\Debug\net8.0-windows\refint\RadioButton.dll
+C:\proyects\.net\RadioButton\obj\Debug\net8.0-windows\RadioButton.pdb
+C:\proyects\.net\RadioButton\obj\Debug\net8.0-windows\RadioButton.genruntimeconfig.cache
+C:\proyects\.net\RadioButton\obj\Debug\net8.0-windows\ref\RadioButton.dll
