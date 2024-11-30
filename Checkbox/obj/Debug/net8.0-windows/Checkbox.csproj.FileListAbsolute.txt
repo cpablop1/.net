@@ -1,0 +1,17 @@
+C:\proyects\.net\Checkbox\bin\Debug\net8.0-windows\Checkbox.exe
+C:\proyects\.net\Checkbox\bin\Debug\net8.0-windows\Checkbox.deps.json
+C:\proyects\.net\Checkbox\bin\Debug\net8.0-windows\Checkbox.runtimeconfig.json
+C:\proyects\.net\Checkbox\bin\Debug\net8.0-windows\Checkbox.dll
+C:\proyects\.net\Checkbox\bin\Debug\net8.0-windows\Checkbox.pdb
+C:\proyects\.net\Checkbox\obj\Debug\net8.0-windows\Checkbox.Form1.resources
+C:\proyects\.net\Checkbox\obj\Debug\net8.0-windows\Checkbox.csproj.GenerateResource.cache
+C:\proyects\.net\Checkbox\obj\Debug\net8.0-windows\Checkbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\Checkbox\obj\Debug\net8.0-windows\Checkbox.AssemblyInfoInputs.cache
+C:\proyects\.net\Checkbox\obj\Debug\net8.0-windows\Checkbox.AssemblyInfo.cs
+C:\proyects\.net\Checkbox\obj\Debug\net8.0-windows\Checkbox.csproj.CoreCompileInputs.cache
+C:\proyects\.net\Checkbox\obj\Debug\net8.0-windows\Checkbox.sourcelink.json
+C:\proyects\.net\Checkbox\obj\Debug\net8.0-windows\Checkbox.dll
+C:\proyects\.net\Checkbox\obj\Debug\net8.0-windows\refint\Checkbox.dll
+C:\proyects\.net\Checkbox\obj\Debug\net8.0-windows\Checkbox.pdb
+C:\proyects\.net\Checkbox\obj\Debug\net8.0-windows\Checkbox.genruntimeconfig.cache
+C:\proyects\.net\Checkbox\obj\Debug\net8.0-windows\ref\Checkbox.dll
