@@ -1,0 +1,17 @@
+C:\proyects\.net\DataGridView\bin\Debug\net8.0-windows\DataGridView.exe
+C:\proyects\.net\DataGridView\bin\Debug\net8.0-windows\DataGridView.deps.json
+C:\proyects\.net\DataGridView\bin\Debug\net8.0-windows\DataGridView.runtimeconfig.json
+C:\proyects\.net\DataGridView\bin\Debug\net8.0-windows\DataGridView.dll
+C:\proyects\.net\DataGridView\bin\Debug\net8.0-windows\DataGridView.pdb
+C:\proyects\.net\DataGridView\obj\Debug\net8.0-windows\DataGridView.Form1.resources
+C:\proyects\.net\DataGridView\obj\Debug\net8.0-windows\DataGridView.csproj.GenerateResource.cache
+C:\proyects\.net\DataGridView\obj\Debug\net8.0-windows\DataGridView.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyects\.net\DataGridView\obj\Debug\net8.0-windows\DataGridView.AssemblyInfoInputs.cache
+C:\proyects\.net\DataGridView\obj\Debug\net8.0-windows\DataGridView.AssemblyInfo.cs
+C:\proyects\.net\DataGridView\obj\Debug\net8.0-windows\DataGridView.csproj.CoreCompileInputs.cache
+C:\proyects\.net\DataGridView\obj\Debug\net8.0-windows\DataGridView.sourcelink.json
+C:\proyects\.net\DataGridView\obj\Debug\net8.0-windows\DataGridView.dll
+C:\proyects\.net\DataGridView\obj\Debug\net8.0-windows\refint\DataGridView.dll
+C:\proyects\.net\DataGridView\obj\Debug\net8.0-windows\DataGridView.pdb
+C:\proyects\.net\DataGridView\obj\Debug\net8.0-windows\DataGridView.genruntimeconfig.cache
+C:\proyects\.net\DataGridView\obj\Debug\net8.0-windows\ref\DataGridView.dll
