@@ -40,6 +40,10 @@
             codigo = new DataGridViewTextBoxColumn();
             descripcion = new DataGridViewTextBoxColumn();
             precio = new DataGridViewTextBoxColumn();
+            label4 = new Label();
+            txtTotalCompra = new TextBox();
+            label5 = new Label();
+            txtTotalProductos = new TextBox();
             ((System.ComponentModel.ISupportInitialize)dgvProductos).BeginInit();
             SuspendLayout();
             // 
@@ -109,6 +113,7 @@
             btnEliminar.TabIndex = 7;
             btnEliminar.Text = "Eliminar";
             btnEliminar.UseVisualStyleBackColor = true;
+            btnEliminar.Click += btnEliminar_Click;
             // 
             // dgvProductos
             // 
@@ -141,11 +146,49 @@
             precio.Name = "precio";
             precio.ReadOnly = true;
             // 
+            // label4
+            // 
+            label4.AutoSize = true;
+            label4.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label4.Location = new Point(336, 451);
+            label4.Name = "label4";
+            label4.Size = new Size(83, 15);
+            label4.TabIndex = 9;
+            label4.Text = "Total Compra:";
+            // 
+            // txtTotalCompra
+            // 
+            txtTotalCompra.Location = new Point(425, 448);
+            txtTotalCompra.Name = "txtTotalCompra";
+            txtTotalCompra.Size = new Size(100, 23);
+            txtTotalCompra.TabIndex = 10;
+            // 
+            // label5
+            // 
+            label5.AutoSize = true;
+            label5.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label5.Location = new Point(38, 448);
+            label5.Name = "label5";
+            label5.Size = new Size(96, 15);
+            label5.TabIndex = 11;
+            label5.Text = "Total Productos:";
+            // 
+            // txtTotalProductos
+            // 
+            txtTotalProductos.Location = new Point(140, 448);
+            txtTotalProductos.Name = "txtTotalProductos";
+            txtTotalProductos.Size = new Size(100, 23);
+            txtTotalProductos.TabIndex = 12;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(566, 450);
+            ClientSize = new Size(566, 487);
+            Controls.Add(txtTotalProductos);
+            Controls.Add(label5);
+            Controls.Add(txtTotalCompra);
+            Controls.Add(label4);
             Controls.Add(dgvProductos);
             Controls.Add(btnEliminar);
             Controls.Add(btnIngresar);
@@ -157,6 +200,7 @@
             Controls.Add(label1);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load_1;
             ((System.ComponentModel.ISupportInitialize)dgvProductos).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -176,5 +220,9 @@
         private DataGridViewTextBoxColumn codigo;
         private DataGridViewTextBoxColumn descripcion;
         private DataGridViewTextBoxColumn precio;
+        private Label label4;
+        private TextBox txtTotalCompra;
+        private Label label5;
+        private TextBox txtTotalProductos;
     }
 }

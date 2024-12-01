@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A98AE8E3-540C-4AE1-A0EE-56A578EE3BFA}|DataGridView.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A98AE8E3-540C-4AE1-A0EE-56A578EE3BFA}|DataGridView.csproj|c:\\proyects\\.net\\datagridview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A98AE8E3-540C-4AE1-A0EE-56A578EE3BFA}|DataGridView.csproj|C:\\proyects\\.net\\DataGridView\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A98AE8E3-540C-4AE1-A0EE-56A578EE3BFA}|DataGridView.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\proyects\\.net\\DataGridView\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T17:05:19.673Z",
               "EditorCaption": ""
