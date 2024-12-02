@@ -1,0 +1,15 @@
+C:\proyects\.net\RadioButton_With_WPF\bin\Debug\RadioButton_With_WPF.exe.config
+C:\proyects\.net\RadioButton_With_WPF\bin\Debug\RadioButton_With_WPF.exe
+C:\proyects\.net\RadioButton_With_WPF\bin\Debug\RadioButton_With_WPF.pdb
+C:\proyects\.net\RadioButton_With_WPF\obj\Debug\RadioButton_With_WPF.csproj.AssemblyReference.cache
+C:\proyects\.net\RadioButton_With_WPF\obj\Debug\MainWindow.g.cs
+C:\proyects\.net\RadioButton_With_WPF\obj\Debug\App.g.cs
+C:\proyects\.net\RadioButton_With_WPF\obj\Debug\RadioButton_With_WPF_MarkupCompile.cache
+C:\proyects\.net\RadioButton_With_WPF\obj\Debug\RadioButton_With_WPF_MarkupCompile.lref
+C:\proyects\.net\RadioButton_With_WPF\obj\Debug\MainWindow.baml
+C:\proyects\.net\RadioButton_With_WPF\obj\Debug\RadioButton_With_WPF.g.resources
+C:\proyects\.net\RadioButton_With_WPF\obj\Debug\RadioButton_With_WPF.Properties.Resources.resources
+C:\proyects\.net\RadioButton_With_WPF\obj\Debug\RadioButton_With_WPF.csproj.GenerateResource.cache
+C:\proyects\.net\RadioButton_With_WPF\obj\Debug\RadioButton_With_WPF.csproj.CoreCompileInputs.cache
+C:\proyects\.net\RadioButton_With_WPF\obj\Debug\RadioButton_With_WPF.exe
+C:\proyects\.net\RadioButton_With_WPF\obj\Debug\RadioButton_With_WPF.pdb
