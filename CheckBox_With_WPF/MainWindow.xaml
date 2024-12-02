@@ -1,0 +1,18 @@
+﻿<Window x:Class="CheckBox_With_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBox_With_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="400">
+    <Grid HorizontalAlignment="Left" Width="400">
+        <Label Content="¿Qué lenguajes te gustaría aprender?" HorizontalAlignment="Left" Margin="34,57,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chbC" Content="C#" HorizontalAlignment="Left" Margin="46,98,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chbPython" Content="Python" HorizontalAlignment="Left" Margin="46,137,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chbJavascript" Content="Javascritp" HorizontalAlignment="Left" Margin="46,178,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="chbPHP" Content="PHP" HorizontalAlignment="Left" Margin="46,217,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnMostrar" Content="Mostrar Elección" HorizontalAlignment="Left" Margin="250,106,0,0" VerticalAlignment="Top" Height="52" Click="btnMostrar_Click"/>
+
+    </Grid>
+</Window>
