@@ -1,0 +1,15 @@
+C:\proyects\.net\ComboBox\bin\Debug\ComboBox.exe.config
+C:\proyects\.net\ComboBox\bin\Debug\ComboBox.exe
+C:\proyects\.net\ComboBox\bin\Debug\ComboBox.pdb
+C:\proyects\.net\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+C:\proyects\.net\ComboBox\obj\Debug\MainWindow.g.cs
+C:\proyects\.net\ComboBox\obj\Debug\App.g.cs
+C:\proyects\.net\ComboBox\obj\Debug\ComboBox_MarkupCompile.cache
+C:\proyects\.net\ComboBox\obj\Debug\ComboBox_MarkupCompile.lref
+C:\proyects\.net\ComboBox\obj\Debug\MainWindow.baml
+C:\proyects\.net\ComboBox\obj\Debug\ComboBox.g.resources
+C:\proyects\.net\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\proyects\.net\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\proyects\.net\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\proyects\.net\ComboBox\obj\Debug\ComboBox.exe
+C:\proyects\.net\ComboBox\obj\Debug\ComboBox.pdb
