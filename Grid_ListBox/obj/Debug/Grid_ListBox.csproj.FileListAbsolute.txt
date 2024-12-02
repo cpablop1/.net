@@ -1,0 +1,15 @@
+C:\proyects\.net\Grid_ListBox\bin\Debug\Grid_ListBox.exe.config
+C:\proyects\.net\Grid_ListBox\bin\Debug\Grid_ListBox.exe
+C:\proyects\.net\Grid_ListBox\bin\Debug\Grid_ListBox.pdb
+C:\proyects\.net\Grid_ListBox\obj\Debug\Grid_ListBox.csproj.AssemblyReference.cache
+C:\proyects\.net\Grid_ListBox\obj\Debug\MainWindow.g.cs
+C:\proyects\.net\Grid_ListBox\obj\Debug\App.g.cs
+C:\proyects\.net\Grid_ListBox\obj\Debug\Grid_ListBox_MarkupCompile.cache
+C:\proyects\.net\Grid_ListBox\obj\Debug\Grid_ListBox_MarkupCompile.lref
+C:\proyects\.net\Grid_ListBox\obj\Debug\MainWindow.baml
+C:\proyects\.net\Grid_ListBox\obj\Debug\Grid_ListBox.g.resources
+C:\proyects\.net\Grid_ListBox\obj\Debug\Grid_ListBox.Properties.Resources.resources
+C:\proyects\.net\Grid_ListBox\obj\Debug\Grid_ListBox.csproj.GenerateResource.cache
+C:\proyects\.net\Grid_ListBox\obj\Debug\Grid_ListBox.csproj.CoreCompileInputs.cache
+C:\proyects\.net\Grid_ListBox\obj\Debug\Grid_ListBox.exe
+C:\proyects\.net\Grid_ListBox\obj\Debug\Grid_ListBox.pdb
