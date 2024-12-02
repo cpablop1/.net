@@ -1,0 +1,15 @@
+C:\proyects\.net\WPF-Inicial\bin\Debug\WPF-Inicial.exe.config
+C:\proyects\.net\WPF-Inicial\bin\Debug\WPF-Inicial.exe
+C:\proyects\.net\WPF-Inicial\bin\Debug\WPF-Inicial.pdb
+C:\proyects\.net\WPF-Inicial\obj\Debug\WPF-Inicial.csproj.AssemblyReference.cache
+C:\proyects\.net\WPF-Inicial\obj\Debug\MainWindow.g.cs
+C:\proyects\.net\WPF-Inicial\obj\Debug\App.g.cs
+C:\proyects\.net\WPF-Inicial\obj\Debug\WPF-Inicial_MarkupCompile.cache
+C:\proyects\.net\WPF-Inicial\obj\Debug\WPF-Inicial_MarkupCompile.lref
+C:\proyects\.net\WPF-Inicial\obj\Debug\MainWindow.baml
+C:\proyects\.net\WPF-Inicial\obj\Debug\WPF-Inicial.g.resources
+C:\proyects\.net\WPF-Inicial\obj\Debug\WPF_Inicial.Properties.Resources.resources
+C:\proyects\.net\WPF-Inicial\obj\Debug\WPF-Inicial.csproj.GenerateResource.cache
+C:\proyects\.net\WPF-Inicial\obj\Debug\WPF-Inicial.csproj.CoreCompileInputs.cache
+C:\proyects\.net\WPF-Inicial\obj\Debug\WPF-Inicial.exe
+C:\proyects\.net\WPF-Inicial\obj\Debug\WPF-Inicial.pdb
