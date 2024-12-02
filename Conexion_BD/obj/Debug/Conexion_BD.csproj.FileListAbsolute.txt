@@ -1,0 +1,15 @@
+C:\proyects\.net\Conexion_BD\bin\Debug\Conexion_BD.exe.config
+C:\proyects\.net\Conexion_BD\bin\Debug\Conexion_BD.exe
+C:\proyects\.net\Conexion_BD\bin\Debug\Conexion_BD.pdb
+C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD.csproj.AssemblyReference.cache
+C:\proyects\.net\Conexion_BD\obj\Debug\MainWindow.g.cs
+C:\proyects\.net\Conexion_BD\obj\Debug\App.g.cs
+C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD_MarkupCompile.cache
+C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD_MarkupCompile.lref
+C:\proyects\.net\Conexion_BD\obj\Debug\MainWindow.baml
+C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD.g.resources
+C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD.Properties.Resources.resources
+C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD.csproj.GenerateResource.cache
+C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD.csproj.CoreCompileInputs.cache
+C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD.exe
+C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD.pdb
