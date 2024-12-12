@@ -22,7 +22,6 @@ namespace Conexion_BD
     /// </summary>
     public partial class MainWindow : Window
     {
-        private SqlConnection conexion = new SqlConnection("Data Source=PABLO\\SQLEXPRESS;Initial Catalog=tienda;Integrated Security=True;TrustServerCertificate=True");
         public MainWindow()
         {
             InitializeComponent();
