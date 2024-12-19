@@ -3,19 +3,40 @@
   "WorkspaceRootPath": "C:\\proyects\\.net\\Conexion_BD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|c:\\proyects\\.net\\conexion_bd\\presentacion\\wfpconsultarcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|solutionrelative:presentacion\\wfpconsultarcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|c:\\proyects\\.net\\conexion_bd\\datos\\dcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|solutionrelative:datos\\dcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|c:\\proyects\\.net\\conexion_bd\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|C:\\proyects\\.net\\Conexion_BD\\logica\\lcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|solutionrelative:logica\\lcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|c:\\proyects\\.net\\conexion_bd\\presentacion\\wfpconsultarcliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|solutionrelative:presentacion\\wfpconsultarcliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|C:\\proyects\\.net\\Conexion_BD\\presentacion\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|solutionrelative:presentacion\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|C:\\proyects\\.net\\Conexion_BD\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|c:\\proyects\\.net\\conexion_bd\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|C:\\proyects\\.net\\Conexion_BD\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|C:\\proyects\\.net\\Conexion_BD\\presentacion\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|solutionrelative:presentacion\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|C:\\proyects\\.net\\Conexion_BD\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0332635D-3022-47AE-972C-F22FF8C0D52F}|Conexion_BD.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,7 +54,108 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Presentacion\\WfpConsultarCliente.xaml.cs",
+              "DocumentMoniker": "C:\\proyects\\.net\\Conexion_BD\\Presentacion\\WfpConsultarCliente.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\WfpConsultarCliente.xaml.cs",
+              "ToolTip": "C:\\proyects\\.net\\Conexion_BD\\Presentacion\\WfpConsultarCliente.xaml.cs*",
+              "RelativeToolTip": "Presentacion\\WfpConsultarCliente.xaml.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:58:31.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WfpConsultarCliente.xaml",
+              "DocumentMoniker": "C:\\proyects\\.net\\Conexion_BD\\Presentacion\\WfpConsultarCliente.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\WfpConsultarCliente.xaml",
+              "ToolTip": "C:\\proyects\\.net\\Conexion_BD\\Presentacion\\WfpConsultarCliente.xaml",
+              "RelativeToolTip": "Presentacion\\WfpConsultarCliente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-19T14:38:55.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\proyects\\.net\\Conexion_BD\\Presentacion\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Window1.xaml.cs",
+              "ToolTip": "C:\\proyects\\.net\\Conexion_BD\\Presentacion\\Window1.xaml.cs",
+              "RelativeToolTip": "Presentacion\\Window1.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:31:27.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LCliente.cs",
+              "DocumentMoniker": "C:\\proyects\\.net\\Conexion_BD\\Logica\\LCliente.cs",
+              "RelativeDocumentMoniker": "Logica\\LCliente.cs",
+              "ToolTip": "C:\\proyects\\.net\\Conexion_BD\\Logica\\LCliente.cs",
+              "RelativeToolTip": "Logica\\LCliente.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:12:35.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DCliente.cs",
+              "DocumentMoniker": "C:\\proyects\\.net\\Conexion_BD\\Datos\\DCliente.cs",
+              "RelativeDocumentMoniker": "Datos\\DCliente.cs",
+              "ToolTip": "C:\\proyects\\.net\\Conexion_BD\\Datos\\DCliente.cs*",
+              "RelativeToolTip": "Datos\\DCliente.cs*",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAkwIQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:03:45.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\proyects\\.net\\Conexion_BD\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\proyects\\.net\\Conexion_BD\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T15:57:07.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\proyects\\.net\\Conexion_BD\\Presentacion\\Window1.xaml",
+              "RelativeDocumentMoniker": "Presentacion\\Window1.xaml",
+              "ToolTip": "C:\\proyects\\.net\\Conexion_BD\\Presentacion\\Window1.xaml",
+              "RelativeToolTip": "Presentacion\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-12T15:48:04.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\proyects\\.net\\Conexion_BD\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\proyects\\.net\\Conexion_BD\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:58:50.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\proyects\\.net\\Conexion_BD\\Datos\\Conexion.cs",
               "RelativeDocumentMoniker": "Datos\\Conexion.cs",
@@ -41,47 +163,7 @@
               "RelativeToolTip": "Datos\\Conexion.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwC4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:28:02.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DCliente.cs",
-              "DocumentMoniker": "C:\\proyects\\.net\\Conexion_BD\\Datos\\DCliente.cs",
-              "RelativeDocumentMoniker": "Datos\\DCliente.cs",
-              "ToolTip": "C:\\proyects\\.net\\Conexion_BD\\Datos\\DCliente.cs",
-              "RelativeToolTip": "Datos\\DCliente.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAuwFkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T14:27:42.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WpfXamlLoader.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Usuario\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs",
-              "ToolTip": "C:\\Users\\Usuario\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [Solo lectura]",
-              "RelativeToolTip": "..\\..\\..\\Users\\Usuario\\AppData\\Local\\Temp\\.vsdbgsrc\\c6a5a7f5f1f891b96e7ce20decdfb3b83d9ea38a008c3e03a9a2dc211cf459f6\\WpfXamlLoader.cs [Solo lectura]",
-              "ViewState": "AgIAAGkAAAAAAAAAAADwv3cAAAADAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T19:17:09.832Z",
-              "EditorCaption": " [Solo lectura]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\proyects\\.net\\Conexion_BD\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\proyects\\.net\\Conexion_BD\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T18:58:50.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-12T14:28:02.003Z"
             }
           ]
         }

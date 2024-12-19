@@ -13,3 +13,7 @@ C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD.csproj.GenerateResource.cache
 C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD.csproj.CoreCompileInputs.cache
 C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD.exe
 C:\proyects\.net\Conexion_BD\obj\Debug\Conexion_BD.pdb
+C:\proyects\.net\Conexion_BD\obj\Debug\Presentacion\Window1.g.cs
+C:\proyects\.net\Conexion_BD\obj\Debug\Presentacion\Window1.baml
+C:\proyects\.net\Conexion_BD\obj\Debug\Presentacion\WfpConsultarCliente.g.cs
+C:\proyects\.net\Conexion_BD\obj\Debug\Presentacion\WfpConsultarCliente.baml

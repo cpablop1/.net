@@ -14,6 +14,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Data;
 using System.Data.SqlClient;
+using Conexion_BD.Presentacion;
 
 namespace Conexion_BD
 {
@@ -29,23 +30,20 @@ namespace Conexion_BD
 
         private void btnConectar_Click(object sender, RoutedEventArgs e)
         {
-            try
-            {
-                conexion.Open();
+            Window1 wpfMCrearCte = new Window1();
 
-                if (conexion.State == ConnectionState.Open)
-                {
-                    MessageBox.Show("La conexión ha sido exitosa.");
-                }
-            }
-            catch(Exception ex)
-            {
-                MessageBox.Show(ex.Message);
-            }
-            finally
-            {
-                conexion.Close();
-            }
+            this.Close();
+
+            wpfMCrearCte.Show();
+        }
+
+        private void btnConsultarCliente_Click(object sender, RoutedEventArgs e)
+        {
+            WfpConsultarCliente wfpConsultarCliente = new WfpConsultarCliente();
+
+            this.Close();
+
+            wfpConsultarCliente.Show();
         }
     }
 }

@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="btnConectar" Content="Conectar" HorizontalAlignment="Left" Margin="318,163,0,0" VerticalAlignment="Top" Height="45" Width="134" Click="btnConectar_Click"/>
+        <Button x:Name="btnCrearCliente" Content="Crear cliente" HorizontalAlignment="Left" Margin="55,61,0,0" VerticalAlignment="Top" Height="45" Width="134" Click="btnConectar_Click"/>
+        <Button x:Name="btnConsultarCliente" Content="Consultar Cliente" HorizontalAlignment="Left" Margin="214,61,0,0" VerticalAlignment="Top" Width="134" Height="45" Click="btnConsultarCliente_Click"/>
 
     </Grid>
 </Window>
