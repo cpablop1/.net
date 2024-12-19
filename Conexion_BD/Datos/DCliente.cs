@@ -36,6 +36,16 @@ namespace Conexion_BD.Datos
 
         }
 
+        public DCliente(string nom, string ape, string dire, string tel, string nId, string cal)
+        {
+            nombres = nom;
+            apellidos = ape;
+            direccion = dire;
+            telefono = tel;
+            numId = nId;
+            calificacion = cal;
+        }
+
         public int ID
         {
             get { return id; }
@@ -164,6 +174,37 @@ namespace Conexion_BD.Datos
                 int count = (int)cmd.ExecuteScalar();
 
                 if (count > 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return false;
+            }
+            finally
+            {
+                desconectar();
+            }
+        }
+
+        public bool actualizar()
+        {
+            try
+            {
+                conectar();
+
+                string consulta = $"UPDATE tienda.CLIENTES SET NOMBRES='{nombres}', APELLIDOS='{apellidos}'," +
+                    $"DIRECCION='{direccion}', TELEFONO='{telefono}', CALIFICACION='{calificacion}', NUM_ID='{numId}' WHERE id={id}";
+
+                cmd = new SqlCommand(consulta, bd);
+
+                if (cmd.ExecuteNonQuery() > 0)
                 {
                     return true;
                 }

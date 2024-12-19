@@ -46,5 +46,19 @@ namespace Conexion_BD.Presentacion
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private void btnActualizarCliente_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                LCliente lc = new LCliente();
+
+                lc.actualizar(int.Parse(txtIdCliente.Text),txtNombres.Text, txtApellidos.Text, txtDireccion.Text, txtTelefono.Text, txtIdentificacion.Text, txtCalificacion.Text);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 }

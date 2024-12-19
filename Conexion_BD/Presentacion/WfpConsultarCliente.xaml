@@ -8,20 +8,21 @@
         Title="WfpConsultarCliente" Height="417" Width="498">
     <Grid Margin="0,0,0,-6">
         <Label Content="Id Cliente" HorizontalAlignment="Left" Margin="37,22,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtIdCliente" HorizontalAlignment="Left" Margin="37,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <TextBox x:Name="txtIdCliente" HorizontalAlignment="Left" Margin="37,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label Content="Nombres" HorizontalAlignment="Left" Margin="37,87,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtNombres" HorizontalAlignment="Left" Margin="37,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <TextBox x:Name="txtNombres" HorizontalAlignment="Left" Margin="37,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label Content="Apellidos" HorizontalAlignment="Left" Margin="37,141,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtApellidos" HorizontalAlignment="Left" Margin="37,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <TextBox x:Name="txtApellidos" HorizontalAlignment="Left" Margin="37,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label Content="Dirección" HorizontalAlignment="Left" Margin="37,195,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtDireccion" HorizontalAlignment="Left" Margin="37,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <TextBox x:Name="txtDireccion" HorizontalAlignment="Left" Margin="37,226,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label Content="Teléfono" HorizontalAlignment="Left" Margin="37,249,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtTelefono" HorizontalAlignment="Left" Margin="37,280,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <TextBox x:Name="txtTelefono" HorizontalAlignment="Left" Margin="37,280,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label Content="Calificación" HorizontalAlignment="Left" Margin="37,303,0,0" VerticalAlignment="Top"/>
-        <TextBox x:Name="txtCalificacion" HorizontalAlignment="Left" Margin="37,334,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsEnabled="False"/>
+        <TextBox x:Name="txtCalificacion" HorizontalAlignment="Left" Margin="37,334,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Label Content="Ingrese el número identificación" HorizontalAlignment="Left" Margin="293,22,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtIdentificacion" HorizontalAlignment="Left" Margin="323,53,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <Button x:Name="btnConsultarCliente" Content="Consultar" HorizontalAlignment="Left" Margin="329,109,0,0" VerticalAlignment="Top" Height="36" Width="108" Click="btnConsultarCliente_Click"/>
+        <Button x:Name="btnActualizarCliente" Content="Actualizar" HorizontalAlignment="Left" Margin="329,154,0,0" VerticalAlignment="Top" Height="36" Width="108" Click="btnActualizarCliente_Click"/>
 
     </Grid>
 </Window>

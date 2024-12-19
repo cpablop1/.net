@@ -54,5 +54,30 @@ namespace Conexion_BD.Logica
                 return null;
             }
         }
+
+        public void actualizar(int idC, string nom, string ape, string dire, string tel, string nId, string cal)
+        {
+            try
+            {
+                DCliente dc = new DCliente(nom, ape, dire, tel, nId, cal);
+                dc.ID = idC;
+
+                if (dc.existeCliente() == true)
+                {
+                    if (dc.actualizar() == true)
+                    {
+                        MessageBox.Show("Cliente actualizado correctamente.");
+                    }
+                    else
+                    {
+                        MessageBox.Show("Hubo un error al actualizar cliente");
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 }
