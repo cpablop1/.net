@@ -223,5 +223,35 @@ namespace Conexion_BD.Datos
                 desconectar();
             }
         }
+
+        public bool eliminar()
+        {
+            try
+            {
+                conectar();
+
+                string consulta = $"DELETE FROM tienda.CLIENTES WHERE id={id}";
+
+                cmd = new SqlCommand(consulta, bd);
+
+                if (cmd.ExecuteNonQuery() > 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                return false;
+            }
+            finally
+            {
+                desconectar();
+            }
+        }
     }
 }

@@ -60,5 +60,19 @@ namespace Conexion_BD.Presentacion
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private void btnEliminarCliente_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                LCliente lc = new LCliente();
+
+                lc.eliminar(int.Parse(txtIdCliente.Text));
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 }

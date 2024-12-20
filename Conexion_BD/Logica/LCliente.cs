@@ -79,5 +79,27 @@ namespace Conexion_BD.Logica
                 MessageBox.Show(ex.Message);
             }
         }
+
+        public void eliminar(int idC)
+        {
+            try
+            {
+                DCliente dc = new DCliente();
+                dc.ID = idC;
+
+                if (dc.eliminar() == true)
+                {
+                    MessageBox.Show("Cliente eliminado correctamente.");
+                }
+                else
+                {
+                    MessageBox.Show("Hubo un error al eliminar cliente");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
     }
 }
